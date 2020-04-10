@@ -1,10 +1,10 @@
 === Tickle Me WordPress ===
-Contributors: woodent
+Contributors: wpscholar
 Donate link: https://www.paypal.me/wpscholar
 Tags: security, login
 Requires at least: 3.0
-Tested up to: 4.5.2
-Stable tag: 1.1.1
+Tested up to: 5.4
+Stable tag: 1.1.2
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -35,6 +35,11 @@ Installation is easy:
 
 = 1.1.1 =
 
+* Fixed issue where `create_function` is deprecated.
+* Tested in WordPress 5.4
+
+= 1.1.1 =
+
 * Tested in WordPress version 4.5.2
 
 = 1.1 =
@@ -46,6 +51,10 @@ Installation is easy:
 * Initial release
 
 == Upgrade Notice ==
+
+= 1.1.2 =
+
+* Plugin updated to work with WordPress 5.4 and PHP 7.*
 
 = 1.1.1 =
 
